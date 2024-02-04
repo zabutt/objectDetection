@@ -5,6 +5,7 @@ import cv2
 import numpy as np
 import urllib.request
 import os
+from PIL import Image
 
 # Load YOLOv8 model (you can replace this with your own trained model)
 # Download the weights and config files from the official YOLOv8 repository
